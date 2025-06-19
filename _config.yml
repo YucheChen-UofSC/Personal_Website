@@ -12,12 +12,7 @@ site_theme               : "default"
 title                    : "Chen-Home"
 title_separator          : "-"
 name                     : &name "Yuche Chen"
-description              : &description "
-I am Yuche Chen, and I am currently an Assistant Professor in the Department of Civil and Environmental Engineering at the University of South Carolina. I earned my Bachelor’s degree in Transportation Engineering from Central South University in 2006, an MS in Management Science and Engineering from Zhejiang University in 2008, and an MS in Statistics and Ph.D. in Transportation Engineering from the University of California, Davis, in 2012 and 2014, respectively.
-
-My research focuses on data-driven decision-making under uncertainty to improve transportation system efficiency, sustainability, and resilience. Specifically, I work on empirical model prediction and validation, eco-driving control using machine learning, transportation air quality and exposure assessment, and cyber-physical system optimization in smart communities. I am also interested in bridging theory and real-world deployment through the integration of smart sensing, model-based control, and AI-powered transportation operations.
-
-I currently serve as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of Automated Transit Systems (AP020) at the Transportation Research Board. I was honored with the Outstanding Achievement Award by the U.S. Department of Energy in 2017."
+description              : &description ""
 url                      : https://YucheChen-UofSC.github.io
 baseurl                  : "/Personal_Website" # the subpath of your site, e.g. "/blog"
 repository               : "YucheChen-UofSC/Personal_Website"
@@ -30,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuche Chen"
   pronouns         : # example: "she/her"  
-  bio              : Assistant Professor<br>Civil and Environmental Engineering<br>University of South Carolina
+  bio              : Assistant Professor<br>Civil & Environmental Engineering<br>University of South Carolina
   location         : "Columbia, South Carolina"
   employer         : "University of South Carolina"
   uri              : # URL
@@ -39,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=mHb_lpAAAAAJ&hl=zh-CN"
+  google_scholar    : "https://scholar.google.com/citations?user=mHb_lpAAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
