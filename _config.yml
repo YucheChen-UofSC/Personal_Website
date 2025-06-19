@@ -75,7 +75,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  linkin           : "https://www.linkedin.com/in/yuche-chen-97bb1638/"
+  linkedin         : "yuche-chen-97bb1638"
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
