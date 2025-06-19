@@ -30,10 +30,11 @@ author:
   avatar           : "profile.png"
   name             : "Yuche Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor
-                    Civil and Environmental Engineering"
-  location         : "Columbia,South Carolina"
-  employer         : "University of South Carolina-Columbia"
+  bio              : |
+    Assistant Professor
+    Civil and Environmental Engineering
+  location         : "Columbia, South Carolina"
+  employer         : "University of South Carolina"
   uri              : # URL
   email            : "chenyuc@cec.sc.edu" 
 
