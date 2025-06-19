@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👨‍🏫About Me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,11 +20,11 @@ His research focuses on <br>
 He currently serves as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of the Automated Transit Systems (AP020) committee within the Transportation Research Board. In recognition of his contributions, he received the Outstanding Achievement Award from the U.S. Department of Energy in 2017.
 </div>
 
-🚀Openings
+Openings
 ======
 We are always looking for self-motivated Ph.D. students who are committed to research!
 
-🎉Recent News
+Recent News
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
