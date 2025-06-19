@@ -27,7 +27,7 @@ repository               : "YucheChen-UofSC/Personal_Website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/profile.png"
+  avatar           : "/assets/images/profile.png"
   name             : "Yuche Chen"
   pronouns         : # example: "she/her"  
   bio              : |
