@@ -28,13 +28,14 @@ repository               : "YucheChen-UofSC/Personal_Website"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuche Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor
+                    Civil and Environmental Engineering"
+  location         : "Columbia,South Carolina"
+  employer         : "University of South Carolina-Columbia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenyuc@cec.sc.edu" 
 
   # Academic websites
   academia         : # URL
