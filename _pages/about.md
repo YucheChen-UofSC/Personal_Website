@@ -1,4 +1,12 @@
-## About Me
+---
+permalink: /
+title: "About Me"
+layout: single
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
@@ -17,13 +25,15 @@ Dr. Yuche Chen is an <b>Assistant Professor</b> in the Department of Civil and E
 He currently serves as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of the Automated Transit Systems (AP020) committee within the Transportation Research Board. In recognition of his contributions, he received <b>the Outstanding Achievement Award from the U.S. Department of Energy</b> in 2017.
 </div>
 
-## Openings
+Openings
+======
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
 We are always looking for self-motivated Ph.D. students who are committed to research🎉! If you are interested, please send your CV and transcript to chenyuc@cec.sc.edu
 
-## Recent News
+Recent News
+======
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
