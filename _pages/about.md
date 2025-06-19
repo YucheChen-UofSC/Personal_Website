@@ -1,12 +1,5 @@
----
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 ## About Me
-<div style="border-bottom: 3px solid black;"></div>
+<div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
 <div style="text-align: justify"> 
@@ -25,13 +18,13 @@ He currently serves as the Chair of the Environmental Analysis in Transportation
 </div>
 
 ## Openings
-<div style="border-bottom: 3px solid black;"></div>
+<div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
 We are always looking for self-motivated Ph.D. students who are committed to research🎉! If you are interested, please send your CV and transcript to chenyuc@cec.sc.edu
 
 ## Recent News
-<div style="border-bottom: 3px solid black;"></div>
+<div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
