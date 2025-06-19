@@ -11,7 +11,7 @@ Dr.Yuche Chen is an Assistant Professor in the Department of Civil and Environme
 </div>
 
 <br>His research focuses on:
-<div style="padding-left: 1.5em;"> 
+<div style="padding-left: 0.5em;"> 
   <ol>  
     <li>Data-driven traffic operations and demand management.</li>
     <li>Model prediction and optimization of cyber-physical systems in smart and connected communities.</li>
@@ -23,9 +23,9 @@ Dr.Yuche Chen is an Assistant Professor in the Department of Civil and Environme
 He currently serves as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of the Automated Transit Systems (AP020) committee within the Transportation Research Board. In recognition of his contributions, he received <b>the Outstanding Achievement Award from the U.S. Department of Energy</b> in 2017.
 </div>
 
-Openings
+<br>Openings
 ======
-We are always looking for self-motivated Ph.D. students who are committed to research🎉
+We are always looking for self-motivated Ph.D. students who are committed to research🎉! If you are interested, please send your CV and transcript to chenyuc@cec.sc.edu
 
 Recent News
 ======
