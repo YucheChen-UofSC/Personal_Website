@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Dr. Yuche Chen is an Assistant Professor in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the University of California, Davis, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from Zhejiang University in 2008, and a Bachelor’s degree in Transportation Engineering from Central South University in 2006.<br>
-</div>
+Dr. Yuche Chen is an Assistant Professor in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the University of California, Davis, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from Zhejiang University in 2008, and a Bachelor’s degree in Transportation Engineering from Central South University in 2006.
+</div><br>
 
 His research focuses on <br>
   (1)  Data-driven traffic operations and demand management.<br>
@@ -18,7 +18,7 @@ His research focuses on <br>
 
 <div style="text-align: justify">
 He currently serves as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of the Automated Transit Systems (AP020) committee within the Transportation Research Board. In recognition of his contributions, he received the Outstanding Achievement Award from the U.S. Department of Energy in 2017.
-</div>
+</div><br>
 
 Openings
 ======
