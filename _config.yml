@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yu che Chen"
+title                    : "Chen-Home"
 title_separator          : "-"
 name                     : &name "Yuche Chen"
 description              : &description "
