@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Dr.Yuche Chen is an Assistant Professor in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the <strong>University of California, Davis, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from <b>Zhejiang University in 2008, and a Bachelor’s degree in Transportation Engineering from <b>Central South University in 2006.<br>
+Dr.Yuche Chen is an Assistant Professor in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the <b>University of California, Davis, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from <b>Zhejiang University in 2008, and a Bachelor’s degree in Transportation Engineering from <b>Central South University in 2006.<br>
 </div>
 
 His research focuses on: <br>
