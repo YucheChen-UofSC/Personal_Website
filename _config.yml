@@ -19,8 +19,8 @@ My research focuses on data-driven decision-making under uncertainty to improve 
 
 I currently serve as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of Automated Transit Systems (AP020) at the Transportation Research Board. I was honored with the Outstanding Achievement Award by the U.S. Department of Energy in 2017."
 url                      : https://YucheChen-UofSC.github.io
-baseurl                  : "Personal_Website" # the subpath of your site, e.g. "/blog"
-repository               : "YucheChen-UofSC/YucheChen.github.io"
+baseurl                  : "/Personal_Website" # the subpath of your site, e.g. "/blog"
+repository               : "YucheChen-UofSC/Personal_Website"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
