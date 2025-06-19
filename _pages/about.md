@@ -25,7 +25,7 @@ Dr. Yuche Chen is an <b>Assistant Professor</b> in the Department of Civil and E
 He currently serves as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of the Automated Transit Systems (AP020) committee within the Transportation Research Board. In recognition of his contributions, he received <b>the Outstanding Achievement Award from the U.S. Department of Energy</b> in 2017.
 </div>
 
-Openings
+<br>Openings
 ======
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
