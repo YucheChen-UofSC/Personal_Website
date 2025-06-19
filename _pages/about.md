@@ -6,16 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify">
-Dr.Yuche Chen is an Assistant Professor in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the <b>University of California, Davis, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from <b>Zhejiang University in 2008, and a Bachelor’s degree in Transportation Engineering from <b>Central South University in 2006.<br>
+<div style="text-align: justify"> # 实现首尾对齐
+Dr.Yuche Chen is an Assistant Professor in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the <b>University of California, Davis</b>, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from <b>Zhejiang University</b> in 2008, and a Bachelor’s degree in Transportation Engineering from <b>Central South University</b> in 2006.<br>
 </div>
 
 His research focuses on: <br>
-  (1) <b>Data-driven traffic operations and demand management.<br>
-  (2) <b>Model prediction and optimization of cyber-physical systems in smart and connected communities.<br>
-  (3) <b>Machine learning based eco-driving assistant system.<br>
-  (4) <b>Transportation air quality and health impacts of exposure.<br>
-
+<div style="padding-left: 1.5em;">  # 实现缩进1.5个字符
+  <ol>  # 实现自动编号
+    <li><b>Data-driven traffic operations and demand management.</b></li><br>
+    <li><b>Model prediction and optimization of cyber-physical systems in smart and connected communities.</b></li><br>
+    <li><b>Machine learning based eco-driving assistant system.</b></li><br>
+    <li><b>Transportation air quality and health impacts of exposure.</b></li><br>
+  </ol>
+</div>
 <div style="text-align: justify">
 He currently serves as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of the Automated Transit Systems (AP020) committee within the Transportation Research Board. In recognition of his contributions, he received <b>the Outstanding Achievement Award from the U.S. Department of Energy in 2017.
 </div><br>
