@@ -9,13 +9,18 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yuche Chen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Yuche Chen"
+description              : &description "
+I am Yuche Chen, and I am currently an Assistant Professor in the Department of Civil and Environmental Engineering at the University of South Carolina. I earned my Bachelor’s degree in Transportation Engineering from Central South University in 2006, an MS in Management Science and Engineering from Zhejiang University in 2008, and an MS in Statistics and Ph.D. in Transportation Engineering from the University of California, Davis, in 2012 and 2014, respectively.
+
+My research focuses on data-driven decision-making under uncertainty to improve transportation system efficiency, sustainability, and resilience. Specifically, I work on empirical model prediction and validation, eco-driving control using machine learning, transportation air quality and exposure assessment, and cyber-physical system optimization in smart communities. I am also interested in bridging theory and real-world deployment through the integration of smart sensing, model-based control, and AI-powered transportation operations.
+
+I currently serve as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of Automated Transit Systems (AP020) at the Transportation Research Board. I was honored with the Outstanding Achievement Award by the U.S. Department of Energy in 2017."
+url                      : https://YucheChen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kkbrucceding/YucheChen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
