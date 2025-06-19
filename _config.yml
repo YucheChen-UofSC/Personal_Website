@@ -18,9 +18,9 @@ I am Yuche Chen, and I am currently an Assistant Professor in the Department of 
 My research focuses on data-driven decision-making under uncertainty to improve transportation system efficiency, sustainability, and resilience. Specifically, I work on empirical model prediction and validation, eco-driving control using machine learning, transportation air quality and exposure assessment, and cyber-physical system optimization in smart communities. I am also interested in bridging theory and real-world deployment through the integration of smart sensing, model-based control, and AI-powered transportation operations.
 
 I currently serve as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of Automated Transit Systems (AP020) at the Transportation Research Board. I was honored with the Outstanding Achievement Award by the U.S. Department of Energy in 2017."
-url                      : https://YucheChen.github.io
+url                      : https://YucheChen-UofSC.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kkbrucceding/YucheChen.github.io"
+repository               : "YucheChen-UofSC/YucheChen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
