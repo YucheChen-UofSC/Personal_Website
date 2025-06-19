@@ -1,11 +1,14 @@
 ---
 permalink: /
 title: "About Me"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## About Me
+<div style="border-bottom: 3px solid black; background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 <div style="text-align: justify"> 
 Dr. Yuche Chen is an <b>Assistant Professor</b> in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the <b>University of California, Davis</b>, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from <b>Zhejiang University</b> in 2008, and a Bachelor’s degree in Transportation Engineering from <b>Central South University</b> in 2006. His research focuses on:
 </div>
@@ -21,12 +24,13 @@ Dr. Yuche Chen is an <b>Assistant Professor</b> in the Department of Civil and E
 He currently serves as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of the Automated Transit Systems (AP020) committee within the Transportation Research Board. In recognition of his contributions, he received <b>the Outstanding Achievement Award from the U.S. Department of Energy</b> in 2017.
 </div>
 
-Openings
-======
+## Openings
+<div style="border-bottom: 3px solid black; background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
+
 We are always looking for self-motivated Ph.D. students who are committed to research🎉! If you are interested, please send your CV and transcript to chenyuc@cec.sc.edu
 
-Recent News
-======
+## Recent News
+<div style="border-bottom: 3px solid black; background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
