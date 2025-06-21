@@ -44,7 +44,7 @@ Recent News
 </div>
 
 <div style="text-align: center;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mIdZMamSUJmOm69QBb_dvLZ_U1UCeC4wEbhh9jM2kYo"></script>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mIdZMamSUJmOm69QBb_dvLZ_U1UCeC4wEbhh9jM2kYo&cl=ffffff&w=a"></script>
 </div>
 
 
