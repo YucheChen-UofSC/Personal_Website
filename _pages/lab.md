@@ -12,7 +12,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; flex-wrap: nowrap;">
   <!-- Image on the left -->
   <div style="flex: 1 1 auto;">
-    <img src="/assets/images/2_ITS.png"
+    <img src="/images/2_ITS.png"
          alt="Intelligent Transportation System"
          style="width: 150px; height: auto; border-radius: 8px; max-width: 100%;">
   </div>
