@@ -14,7 +14,7 @@ author_profile: true
   <div style="flex: 0 0 auto;">
     <img src="/assets/images/2_ITS.png"
          alt="Intelligent Transportation System"
-         style="width: 300px; height: auto; border-radius: 8px; max-width: 100%;">
+         style="width: auto; height: auto; border-radius: 8px; max-width: 100%;">
   </div>
 
   <!-- Text on the right -->
@@ -24,3 +24,7 @@ author_profile: true
     </p>
   </div>
 </div>
+
+
+<h2>Current Students</h2>
+Yihong Ning()
