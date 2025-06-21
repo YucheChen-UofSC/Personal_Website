@@ -44,7 +44,7 @@ Recent News
 </div>
 
 <div style="text-align: center;">
-  <div style="display: inline-block; transform: scale(0.5); transform-origin: top center;">
+  <div style="display: inline-block; transform: scale(0.75); transform-origin: top center;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mIdZMamSUJmOm69QBb_dvLZ_U1UCeC4wEbhb9jM2Yk0&cl=ffffff&w=a"></script>
   </div>
 </div>
