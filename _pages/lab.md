@@ -16,7 +16,7 @@ author_profile: true
 
   <div style="flex: 1;">
     <p style="text-align: justify;">
-Sustainable Transportation and Intelligent Mobility Lab(STIM Lab) is committed to develop AI-driven solutions to enable energy-efficient, eco-friendly, and intelligent transportation systems. By leveraging big data and generative AI, we address the challenges of modern, complex, and rapidly changing transportation systems. Our overarching goal is to bridge the gap between research and practice by transforming innovative ideas into scalable, deployable solutions. We work closely with partners in academia, industry, and public agencies to shape the future of sustainable and intelligent transportation networks.
+Sustainable Transportation and Intelligent Mobility Lab(STIM Lab) is committed to develop AI-driven solutions to construct energy-efficient, eco-friendly, and intelligent transportation systems. By leveraging big data and generative AI, we address the challenges of modern, complex, and rapidly changing transportation systems. Our overarching goal is to bridge the gap between research and practice by transforming innovative ideas into scalable, deployable solutions. We work closely with partners in academia, industry, and public agencies to shape the future of sustainable and intelligent transportation networks.
     </p>
   </div>
 </div>
