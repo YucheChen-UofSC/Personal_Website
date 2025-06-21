@@ -27,8 +27,8 @@ author_profile: true
 
 
 <h2>Current Students</h2>
-Yihong Ning()<br>
-Xiwen Hao(2023 Spring)<br>
+Yihong Ning(2023 Fall)<br>
+Xiwen Hao(2024 Spring)<br>
 Manlin Gong(2024 Fall)<br>
 Ning Ding(2024 Fall)<br>
 
