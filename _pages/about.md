@@ -11,7 +11,7 @@ redirect_from:
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
 <div style="text-align: justify"> 
-Dr. Yuche Chen is an <b>Assistant Professor</b> in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the <b>University of California, Davis</b>, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from <b>Zhejiang University</b> in 2008, and a Bachelor’s degree in Transportation Engineering from <b>Central South University</b> in 2006. His research focuses on:
+Dr. Yuche Chen is an <b>Assistant Professor</b> in the Department of Civil and Environmental Engineering at the <a href="https://sc.edu/"><b>University of South Carolina</b></a>. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the <a href="https://www.ucdavis.edu/"><b>University of California, Davis</b></a>, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from <b>Zhejiang University</b> in 2008, and a Bachelor’s degree in Transportation Engineering from <b>Central South University</b> in 2006. His research focuses on:
 </div>
 <div style="padding-left: 0.5em;"> 
   <ul>  
@@ -44,7 +44,7 @@ Recent News
 </div>
 
 <div style="text-align: center;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mIdZMamSUJmOm69QBb_dvLZ_U1UCeC4wEbhh9jM2kYo&cl=ffffff&w=a"></script>
+  <div style="display: inline-block; transform: scale(0.5); transform-origin: top center;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mIdZMamSUJmOm69QBb_dvLZ_U1UCeC4wEbhb9jM2Yk0&cl=ffffff&w=a"></script>
+  </div>
 </div>
-
-
