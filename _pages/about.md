@@ -14,12 +14,12 @@ redirect_from:
 Dr. Yuche Chen is an <b>Assistant Professor</b> in the Department of Civil and Environmental Engineering at the University of South Carolina. He received both a Ph.D. in Transportation Engineering and an M.S. in Statistics from the <b>University of California, Davis</b>, in 2014 and 2012, respectively, a Master’s degree in Management Science and Engineering from <b>Zhejiang University</b> in 2008, and a Bachelor’s degree in Transportation Engineering from <b>Central South University</b> in 2006. His research focuses on:
 </div>
 <div style="padding-left: 0.5em;"> 
-  <ol>  
+  <ul>  
     <li>Data-driven traffic operations and demand management.</li>
     <li>Model prediction and optimization of cyber-physical systems in smart and connected communities.</li>
     <li>Machine learning based eco-driving assistant system.</li>
     <li>Transportation air quality and health impacts of exposure.</li>
-  </ol>
+  </ul>
 </div>
 <div style="text-align: justify">
 He currently serves as the Chair of the Environmental Analysis in Transportation (ADC10) research subcommittee and as a committee member of the Automated Transit Systems (AP020) committee within the Transportation Research Board. In recognition of his contributions, he received <b>the Outstanding Achievement Award from the U.S. Department of Energy</b> in 2017.
@@ -36,9 +36,15 @@ Recent News
 ======
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+<div style="padding-left:0.5em;">
+  <o1>
+    <li>🎉welcome to my personal website!</li><br><br>
+  </o1>
+</div>
+
+<div style="text-align: center;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mIdZMamSUJmOm69QBb_dvLZ_U1UCeC4wEbhh9jM2kYo"></script>
+</div>
+
+
