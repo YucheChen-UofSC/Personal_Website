@@ -16,9 +16,6 @@ author_profile: true
 <!-- 主体布局 -->
 <div style="display: flex; align-items: flex-start; margin-top: 30px; flex-wrap: wrap; gap: 20px;">
 
-  <!-- 灰色竖条 -->
-  <div style="width: 5px; background-color: #ccc; height: auto;"></div>
-
   <!-- 图片区域 -->
   <div style="flex-shrink: 0;">
     <img src="../images/Ambulance.jpg"
@@ -27,12 +24,59 @@ author_profile: true
   </div>
 
   <!-- 文字区域 -->
-  <div style="flex: 1; min-width: 300px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
     <p style="text-align: justify;">
-      <strong>Research Summary:</strong> This project aims to improve emergency medical service (EMS) operations by reducing response and travel times for acute medical events linked to chronic conditions. By combining large-scale medical, travel, and demographic data with AI techniques, it enables accurate event prediction and proactive EMS vehicle deployment. A dynamic routing algorithm further optimizes travel efficiency by incorporating road geometry and real-time traffic. The result is a data-driven framework for faster, smarter EMS planning.
+      <strong>Research Summary:</strong> This research aims to improve emergency medical service (EMS) operations by reducing response and travel times for acute medical events linked to chronic conditions. By combining large-scale medical, travel, and demographic data with AI techniques, it enables accurate event prediction and proactive EMS vehicle deployment. 
     </p>
   </div>
+</div>
 
+
+<!-- 第二个项目 -->
+<div>
+  <b>Healthcare Travel burdens Survey in South Carolina</b>
+</div>
+
+<!-- 主体布局 -->
+<div style="display: flex; align-items: flex-start; margin-top: 30px; flex-wrap: wrap; gap: 20px;">
+
+  <!-- 图片区域 -->
+  <div style="flex-shrink: 0;">
+    <img src="../images/healthcare.png"
+         alt="Healthcare in South Carolina"
+         style="width: 300px; height: auto; border-radius: 6px;">
+  </div>
+
+  <!-- 文字区域 -->
+  <div style="flex: 1; min-width: 300px;">
+    <p style="text-align: justify;">
+      <strong>Research Summary:</strong> This research aims to understand how transportation barriers impact healthcare access in diverse communities. By combining perception-based survey data with demographic and built environment information, it identifies key mobility challenges faced by vulnerable populations and informs equitable, data-driven transportation and health policy.
+    </p>
+  </div>
+</div>
+
+
+<!-- 第三个项目 -->
+<div>
+  <b>Healthcare Travel burdens Survey in South Carolina</b>
+</div>
+
+<!-- 主体布局 -->
+<div style="display: flex; align-items: flex-start; margin-top: 30px; flex-wrap: wrap; gap: 20px;">
+
+  <!-- 图片区域 -->
+  <div style="flex-shrink: 0;">
+    <img src="../images/Railway.jpg"
+         alt="Route Replanning for first responder"
+         style="width: 300px; height: auto; border-radius: 6px;">
+  </div>
+
+  <!-- 文字区域 -->
+  <div style="flex: 1; min-width: 300px;">
+    <p style="text-align: justify;">
+      <strong>Research Summary:</strong> This project aims to improve emergency response effectiveness at rail crossings by developing an Intelligent Routing Decision Support System tailored to their unique challenges. By integrating real-time rail, traffic, and incident data with advanced routing algorithms, the system provides first responders with optimized, context-aware routes.
+    </p>
+  </div>
 </div>
 
 
