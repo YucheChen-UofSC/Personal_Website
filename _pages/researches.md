@@ -27,7 +27,7 @@ author_profile: true
   </div>
 
   <!-- 文字区域 -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 300px; flex-wrap: wrap;">
     <p style="text-align: justify;">
       <strong>Research Summary:</strong> This project aims to improve emergency medical service (EMS) operations by reducing response and travel times for acute medical events linked to chronic conditions. By combining large-scale medical, travel, and demographic data with AI techniques, it enables accurate event prediction and proactive EMS vehicle deployment. A dynamic routing algorithm further optimizes travel efficiency by incorporating road geometry and real-time traffic. The result is a data-driven framework for faster, smarter EMS planning.
     </p>
