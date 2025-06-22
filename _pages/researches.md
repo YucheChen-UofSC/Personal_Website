@@ -10,7 +10,7 @@ author_profile: true
 
 <!-- 第一个项目 -->
 <div>
-  <h2><b>AI-enabled EMS Operation Planning for Acute Medical Events</b></h2>
+  <h2>AI-enabled EMS Operation Planning for Acute Medical Events</h2>
 </div>
 
 <!-- 主体布局 -->
@@ -34,7 +34,7 @@ author_profile: true
 
 <!-- 第二个项目 -->
 <div>
-  <h2><b>Healthcare Travel burdens Survey in South Carolina</b></h2>
+  <h2>Healthcare Travel burdens Survey in South Carolina</h2>
 </div>
 
 <!-- 主体布局 -->
@@ -58,7 +58,7 @@ author_profile: true
 
 <!-- 第三个项目 -->
 <div>
- <h2><b>Optimizing Emergency Response: Intelligent Routing Decision Support System for First Responders at Rail Crossings</b></h2>
+ <h2>Optimizing Emergency Response: Intelligent Routing Decision Support System for First Responders at Rail Crossings</h2>
 </div>
 
 <!-- 主体布局 -->
@@ -79,7 +79,7 @@ author_profile: true
   </div>
 </div>
 
-<h1>Sponsors</h1>
+<br><h1>Sponsors</h1>
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
