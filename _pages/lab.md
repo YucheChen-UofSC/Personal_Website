@@ -40,7 +40,9 @@ Waiting to upload🫡<br>
 </div>
 
 <h3>Ning Ding</h3>
-Waiting to upload🫡<br>
+<div style="text-align: justify;">
+Hi, I'm Ning Ding, and you can also call me Bruce. I received both my bachelor's and master's degrees from Hunan University, during which I also participated in exchange programs at UC Berkeley and McGill University. My research interests focus on applying large language models (LLMs) to address the complex challenges facing modern transportation systems. Outside of academics, I enjoy playing badminton and fishing. If you're interested in my work or would like to connect—feel free to reach out! 🫡<br>
+</div>
 
 <h2>Alumni</h2>
 
