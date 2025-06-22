@@ -49,8 +49,6 @@ Waiting to upload🫡<br>
 
 <h2>Lab Event</h2>
 
-<h2>Lab Event</h2>
-
 <div style="text-align: center; margin-top: 20px;">
   <!-- Image -->
   <img src="../images/Spring Festrival.jpeg" alt="Spring Festival" style="width: 500px; height: auto; border-radius: 8px;">
