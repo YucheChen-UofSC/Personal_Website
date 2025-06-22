@@ -49,21 +49,20 @@ Waiting to upload🫡<br>
 
 <h2>Lab Event</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
-  
-  <!-- Image Section -->
-  <div style="flex: 0 0 auto; text-align: center;">
-    <img src="../images/Spring Festrival.jpeg" alt="Spring Festival" style="width: 500px; border-radius: 8px;">
-  </div>
+<h2>Lab Event</h2>
 
-  <!-- Text Section -->
-  <div style="flex: 1; min-width: 280px;">
+<div style="text-align: center; margin-top: 20px;">
+  <!-- Image -->
+  <img src="../images/Spring Festrival.jpeg" alt="Spring Festival" style="width: 500px; height: auto; border-radius: 8px;">
+
+  <!-- Text -->
+  <div style="margin-top: 15px; max-width: 700px; margin-left: auto; margin-right: auto;">
     <p style="font-size: 14px; text-align: justify; line-height: 1.6; margin: 0;">
       This photo was taken during the <b>2025 Spring Festival</b> at Prof. Chen's home, where we celebrated the New Year together. The New Year's Eve dinner, crafted by our <b>Michelin-star chefs—Prof. Chen</b> and <b>Prof. Hu</b>—was truly unforgettable 🍾!
     </p>
   </div>
-
 </div>
+
 
 
 
