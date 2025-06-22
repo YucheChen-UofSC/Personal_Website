@@ -31,7 +31,7 @@ Waiting to upload🫡<br>
 
 Manlin Gong<br>
 <div style="text-align: justify;">
-  Manlin Gong is a Second-year Ph.D. student in Civil Engineering at University of South Carolina. She holds an M.S. in Transportation Engineering from South China University of Technology. She is interested in statistical analysis, machine learning, and transportation network modeling.<br>
+  She is a Second-year Ph.D. student in Civil Engineering at University of South Carolina. She holds an M.S. in Transportation Engineering from South China University of Technology. She is interested in statistical analysis, machine learning, and transportation network modeling.<br>
 </div>
 
 Ning Ding(2024 Fall)<br>
@@ -48,14 +48,23 @@ Xiwen Hao<br>
 Waiting to upload🫡<br>
 
 <h2>Lab Event</h2>
+
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="../images/Spring Festrival.jpeg" alt="Spring Festrival" style="width: 300px;">
+  
+  <!-- Image Section -->
+  <div style="flex: 0 0 auto; text-align: center;">
+    <img src="../images/Spring Festrival.jpeg" alt="Spring Festival" style="width: 300px; border-radius: 8px;">
   </div>
 
-   <p style="font-size: 18px; margin-top: 10px; text-align=justify;">
-    This photo was taken during the <b>2025 Spring Festival</b> at Prof. Chen's home, where we celebrated the New Year together. The New Year's Eve dinner, crafted by our <b>Michelin-star chefs—Prof. Chen</b> and <b>Prof. Hu</b>—was truly unforgettable🍾!!!!
-   </p>
+  <!-- Text Section -->
+  <div style="flex: 1; min-width: 280px;">
+    <p style="font-size: 12px; text-align: justify; line-height: 1.6; margin: 0;">
+      This photo was taken during the <b>2025 Spring Festival</b> at Prof. Chen's home, where we celebrated the New Year together. The New Year's Eve dinner, crafted by our <b>Michelin-star chefs—Prof. Chen</b> and <b>Prof. Hu</b>—was truly unforgettable 🍾!
+    </p>
+  </div>
+
+</div>
+
 
 
 
