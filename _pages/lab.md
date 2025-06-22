@@ -15,7 +15,7 @@ author_profile: true
   <div style="flex: 0 0 auto;">
     <img src="../images/2_ITS.png"
          alt="Intelligent Transportation System"
-         style="width: 300px; height: auto; max-width: 100%;">
+         style="width: 300px; height: auto; max-width: 100%; border-radius: 8px;">
   </div>
 
   <div style="flex: 1; min-width: 300px;">
