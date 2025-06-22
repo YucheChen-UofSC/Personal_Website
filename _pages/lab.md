@@ -8,11 +8,12 @@ author_profile: true
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
+
 <h2>Introduction</h2>
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; flex-wrap: nowrap;">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
   <!-- Image on the left -->
   <div style="flex: 1 1 auto;">
-    <img src="/images/2_ITS.png"
+    <img src="../images/2_ITS.png"
          alt="Intelligent Transportation System"
          style="width: 150px; height: auto; max-width: 100%;">
   </div>
