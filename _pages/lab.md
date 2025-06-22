@@ -10,6 +10,9 @@ author_profile: true
 
 
 <h2>Introduction</h2>
+<div style="border-top: 3px solid black;"></div>
+<div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
+
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
   <div style="flex: 0 0 auto;">
     <img src="../images/2_ITS.png"
@@ -26,28 +29,36 @@ author_profile: true
 
 
 <h2>Current Students</h2>
-Yihong Ning(2023 Fall)<br>
+<div style="border-top: 3px solid black;"></div>
+<div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
+
+<h3>Yihong Ning</h3>
 Waiting to upload🫡<br>
 
-Manlin Gong
+<h3>Manlin Gong</h3>
 <div style="text-align: justify;">
   Manlin Gong is a Second-year Ph.D. student in Civil Engineering at University of South Carolina. She holds an M.S. in Transportation Engineering from South China University of Technology. She is interested in statistical analysis, machine learning, and transportation network modeling.<br>
 </div>
 
-<br>Ning Ding(2024 Fall)<br>
+<h3>Ning Ding</h3>
 Waiting to upload🫡<br>
 
 <h2>Alumni</h2>
-Xuanke Wu<br>
+<div style="border-top: 3px solid black;"></div>
+<div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
+
+<h3>Xuanke Wu</h3>
 Waiting to upload🫡<br>
 
-Ruixiao Sun<br>
+<h3>Ruixiao Sun</h3>
 Waiting to upload🫡<br>
 
-Xiwen Hao<br>
+<h3>Xiwen Hao</h3>
 Waiting to upload🫡<br>
 
 <h2>Lab Event</h2>
+<div style="border-top: 3px solid black;"></div>
+<div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
 <div style="text-align: center; margin-top: 20px;">
   <!-- Image -->
