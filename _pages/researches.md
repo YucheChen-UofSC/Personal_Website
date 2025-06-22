@@ -14,7 +14,7 @@ author_profile: true
 </div>
 
 <!-- 主体布局 -->
-<div style="display: flex; align-items: flex-start; margin-top: 30px; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; align-items: flex-start; margin-top: 0px; flex-wrap: wrap; gap: 20px;">
 
   <!-- 图片区域 -->
   <div style="flex-shrink: 0;">
