@@ -18,7 +18,7 @@ author_profile: true
   </div>
 
   <div style="flex: 1; min-width: 300px;">
-    <p style="text-align: justify;>
+    <p style="text-align: justify;">
       <b>Sustainable Transportation and Intelligent Mobility Lab (STIM Lab)</b> is committed to developing AI-driven solutions to construct energy-efficient, eco-friendly, and intelligent transportation systems. By using big data and generative AI, we are able to tackle the challenges inherent in modern, complex, and rapidly evolving transportation systems. Our overarching goal is to bridge the gap between research and practice by transforming innovative ideas into scalable, deployable solutions. We work closely with partners in academia, industry, and public agencies to shape the future of sustainable and intelligent transportation networks.
     </p>
   </div>
@@ -27,10 +27,23 @@ author_profile: true
 
 <h2>Current Students</h2>
 Yihong Ning(2023 Fall)<br>
-Xiwen Hao(2024 Spring)<br>
-Manlin Gong(2024 Fall)<br>
+Waiting to upload🫡<br>
+
+Manlin Gong<br>
+Manlin Gong is a Second-year Ph.D. student in Civil Engineering at University of South Carolina. She holds an M.S. in Transportation Engineering from South China University of Technology. She is interested in statistical analysis, machine learning, and transportation network modeling.<br>
+
 Ning Ding(2024 Fall)<br>
+Waiting to upload🫡<br>
 
 <h2>Alumni</h2>
 Xuanke Wu<br>
+Waiting to upload🫡<br>
+
 Ruixiao Sun<br>
+Waiting to upload🫡<br>
+
+Xiwen Hao<br>
+Waiting to upload🫡<br>
+
+<h2>Lab Events</h2>
+
