@@ -11,7 +11,7 @@ author_profile: true
 
 <h2>Introduction</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 0px; flex-wrap: wrap;">
   <div style="flex: 0 0 auto;">
     <img src="../images/2_ITS.png"
          alt="Intelligent Transportation System"
