@@ -83,10 +83,10 @@ author_profile: true
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
-  <img src="../images/NSF.png" alt="NSF.png" style="width: 250px; height: 140px;">
-  <img src="../images/OAK.jpg" alt="OAK.jpg" style="width: 250px; height: 150px;">
-  <img src="../images/energy.png" alt="energy.png" style="width: 250px; height: 150px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 0px;">
+  <img src="../images/NSF.png" alt="NSF.png" style="width: 200px; height: 140px;">
+  <img src="../images/OAK.jpg" alt="OAK.jpg" style="width: 200px; height: 150px;">
+  <img src="../images/energy.png" alt="energy.png" style="width: 200px; height: 180px;">
 </div>
 
 
