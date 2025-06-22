@@ -79,8 +79,15 @@ author_profile: true
   </div>
 </div>
 
-<br><h1>Sponsors</h1>
+<h1><br>Sponsors</h1>
 <div style="border-top: 3px solid black;"></div>
 <div style="background-color: #e5e5e5; height: 1em; margin-bottom: 1.2em;"></div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+  <img src="/assets/images/NSF.png" alt="NSF" style="height: 80px;">
+  <img src="/assets/images/OAK.jpg" alt="Oak Ridge" style="height: 60px;">
+  <img src="/assets/images/energy.png" alt="DOE" style="height: 60px;">
+</div>
+
 
 
