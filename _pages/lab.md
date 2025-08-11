@@ -31,9 +31,6 @@ author_profile: true
 <h3>Yihong Ning</h3>
 Waiting to upload🫡<br>
 
-<h3>Xiwen Hao</h3>
-Waiting to upload🫡<br>
-
 <h3>Manlin Gong</h3>
 <div style="text-align: justify;">
   Manlin Gong is a Second-year Ph.D. student in Civil Engineering at University of South Carolina. She holds an M.S. in Transportation Engineering from South China University of Technology. She is interested in statistical analysis, machine learning, and transportation network modeling.<br>
@@ -41,7 +38,7 @@ Waiting to upload🫡<br>
 
 <h3>Ning Ding</h3>
 <div style="text-align: justify;">
-Hi, I'm Ning Ding, and you can also call me Bruce. I received both my bachelor's and master's degrees from Hunan University, during which I also participated in exchange programs at UC Berkeley and McGill University. My research interests focus on applying large language models (LLMs) to address the complex challenges facing modern transportation systems. Outside of academics, I enjoy playing badminton and fishing. If you're interested in my work or would like to connect—feel free to reach out! 🫡<br>
+Hi, I'm Ning Ding, and you can also call me Bruce. I received both my bachelor's and master's degrees from Hunan University. My research interests focus on applying large language models (LLMs) to address the complex challenges facing modern transportation systems. If you're interested in my work or would like to connect—feel free to reach out! 🫡<br>
 </div>
 
 <h2>Alumni</h2>
